@@ -27,7 +27,6 @@ class MainActivity : AppCompatActivity() {
 
         /*  activity_main_card_stack_view.setFlingListener(object : SwipeFlingAdapterView.onFlingListener {
             override fun onScroll(p0: Float) {
-                TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
             }
 
             override fun removeFirstObjectInAdapter() {
